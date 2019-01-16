@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+    <line>
+      <![CDATA[Assert Passed]]>
+    </line>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="27325" started-at="2019-01-16T19:17:37Z" finished-at="2019-01-16T19:18:04Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="27325" started-at="2019-01-16T19:17:37Z" finished-at="2019-01-16T19:18:04Z">
+      <class name="eBay.Ebay">
+        <test-method status="PASS" signature="appLaunch()[pri:0, instance:eBay.Ebay@1a968a59]" name="appLaunch" is-config="true" duration-ms="13450" started-at="2019-01-16T19:17:37Z" finished-at="2019-01-16T19:17:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- appLaunch -->
+        <test-method status="PASS" signature="validateTitle()[pri:0, instance:eBay.Ebay@1a968a59]" name="validateTitle" duration-ms="13538" started-at="2019-01-16T19:17:50Z" finished-at="2019-01-16T19:18:04Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Assert Passed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- validateTitle -->
+        <test-method status="PASS" signature="endTest()[pri:0, instance:eBay.Ebay@1a968a59]" name="endTest" is-config="true" duration-ms="308" started-at="2019-01-16T19:18:04Z" finished-at="2019-01-16T19:18:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endTest -->
+      </class> <!-- eBay.Ebay -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

@@ -1,0 +1,4 @@
+00:47:37,651  INFO NewTest<strong>{1}</strong>:37 - Device name is displayed
+00:47:37,653  INFO NewTest<strong>{1}</strong>:42 - Platform version is displayed
+00:47:37,654  INFO NewTest<strong>{1}</strong>:44 - App package is displayed
+00:47:50,973  INFO NewTest<strong>{1}</strong>:50 - Appium is launched
